@@ -87,7 +87,7 @@ WHERE PF.CNPJFornecedor = '12345678901234';
 
       /*Envolvendo multiplas tabelas*/
 
-      /* 1- Listar todos os pedidos com detalhes do cliente:*/
+/*1- Listar todos os pedidos com detalhes do cliente:*/
 
 /*Mostrar informações sobre cada pedido, incluindo os detalhes do cliente.*/
 /*SELECT Pedido.*, Cliente.Nome AS NomeCliente, Cliente.Telefone AS TelefoneCliente
