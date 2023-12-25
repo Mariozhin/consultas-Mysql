@@ -1,6 +1,6 @@
 # consultas-Mysql
 
-/*Consultas relacionadas a Clientes:*/
+     /*Consultas relacionadas a Clientes:*/
 
 /*1-Listar todos os clientes cadastrados*/
 /*SELECT * FROM Cliente;
@@ -16,7 +16,7 @@ Encontrar todos os clientes que são novos (NovoCliente = TRUE).
 
 --------------------------------------------------------------------
 
-   /*Consultas relacionadas a Pedidos:*/
+     /*Consultas relacionadas a Pedidos:*/
 
 /*Encontrar todos os pedidos feitos em uma data específica.*/
 /*SELECT * FROM Pedido WHERE DataPedido = '2023-01-01';
@@ -69,7 +69,7 @@ WHERE PF.CNPJFornecedor = '12345678901234';
 
 -----------------------------------------------------------------------------------------
 
-  /*Consultas relacionadas a Solicitações de Compra:*/
+       /*Consultas relacionadas a Solicitações de Compra:*/
 
   /*Listar todas as solicitações de compra em aberto.*/
 /*SELECT * FROM SolicitacaoCompra WHERE Situação = 'Em aberto';
